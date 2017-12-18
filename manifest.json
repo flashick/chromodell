@@ -1,0 +1,7 @@
+{"name": "Chromo-dell",
+ "description": "Rename ugly filenames for dell java console",
+ "version": "0.1",
+ "background": {"scripts": ["bg.js"], "persistent": false},
+ "permissions": ["downloads"],
+ "content_security_policy": "script-src 'self'; default-src 'self'",
+ "manifest_version": 3}
